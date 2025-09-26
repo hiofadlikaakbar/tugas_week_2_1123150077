@@ -1,6 +1,5 @@
 import 'dart:io';
 
-// Fungsi input angka
 double _readNumber(String label) {
   while (true) {
     stdout.write('$label: ');
