@@ -26,7 +26,7 @@ void kali(double a, double b) {
 
 void bagi(double a, double b) {
   if (b == 0) {
-    print('Error: Pembagian dengan nol tidak diperbolehkan.');
+    print('TIDAK BISA DIBAGI DENGAN NOL!');
   } else {
     print('Hasil: ${(a / b).toInt()}');
   }
